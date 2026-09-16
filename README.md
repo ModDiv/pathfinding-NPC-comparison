@@ -32,7 +32,7 @@ Fungsi heuristic untuk A*: `heuristic` (Euclidean, default), `heuristic_manhatta
 
 Implementasi `bfs()`, `dfs()`, `ucs()`, `a_star()`. |
 
-| `main.py` | = Menghubungkan semua file di atas dan menjalankan seluruh skenario yang diminta tugas — ini file yang kamu jalankan (python main.py).
+| `main.py` | = Menghubungkan semua file di atas dan menjalankan seluruh skenario yang diminta tugas — ini file yang di jalankan (python main.py).
 
 Menjalankan seluruh algoritma + 3 eksperimen (kondisi normal, perubahan path cost, perubahan heuristic) dan mencetak hasilnya ke terminal. |
 
